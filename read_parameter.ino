@@ -1,6 +1,6 @@
-#include"headers.h"
-#include"read_parameter.h"
-#include"hexa_to_decimal.h"
+#include"headers.hpp"
+#include"read_parameter.hpp"
+#include"hexa_to_decimal.hpp"
 
 void Rated_Cap_and_Volt_read(float &Rated_Capacity,float &Rated_CellVolt)
 {

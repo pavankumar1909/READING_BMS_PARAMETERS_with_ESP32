@@ -7,9 +7,9 @@ CS -5
 INT-14
 
 */
-#include "headers.h"
-#include "defines.h"
-#include "read_parameter.h"
+#include "headers.hpp"
+#include "defines.hpp"
+#include "read_parameter.hpp"
 
 #define SEND_ID 0x18500A40  // CAN ID to send
 #define RECEIVE_ID 0x0000002A  // Expected CAN ID to receive

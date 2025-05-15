@@ -1,4 +1,4 @@
-#include "hexa_to_decimal.h"
+#include "hexa_to_decimal.hpp"
 
 int hex_to_dec_singleByte(unsigned char value,bool significance_of_byte,short int nibbles_to_format)
 {
